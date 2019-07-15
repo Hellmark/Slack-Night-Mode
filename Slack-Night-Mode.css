@@ -419,6 +419,9 @@ body { background: #222; color: #e6e6e6; }
   .p-classic_nav__model__title__info__topic__content { position: relative; word-break: break-word; overflow-wrap: break-word; background-color: #222; }
   .c-message_list__day_divider__label { color: #767676; }
   footer, #autocomplete_menu.search_menu footer.unified { background-color: #222; border-color: #000; color: #e6e6e6; }
+  .p-threads_view_header { margin-bottom: 12px; margin-left: 24px; margin-right: 28px; background: #222; }
+  .c-virtual_list__item, .c-virtual_list__sticky_container { background: #222; color: #e6e6e6; }
+  .p-threads_view__footer { border: 1px solid #ddd; border-top: none; border-bottom-left-radius: 12px; border-bottom-right-radius: 12px; margin-bottom: 24px; padding-top: 8px; background: #222; }
   
   /* End July 2019 fixes */
   
