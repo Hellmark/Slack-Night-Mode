@@ -422,6 +422,24 @@ body { background: #222; color: #e6e6e6; }
   .p-threads_view_header { margin-bottom: 12px; margin-left: 24px; margin-right: 28px; background: #222; }
   .c-virtual_list__item, .c-virtual_list__sticky_container { background: #222; color: #e6e6e6; }
   .p-threads_view__footer { border: 1px solid #ddd; border-top: none; border-bottom-left-radius: 12px; border-bottom-right-radius: 12px; margin-bottom: 24px; padding-top: 8px; background: #222; }
+  .p-threads_view_header{margin-bottom:12px; margin-left:24px; margin-right:28px; background: #222;}
+  .p-threads_view_header--first{margin-top:16px}
+  .p-threads_view_header__permalink{font-weight:700;color:#1d1c1d!important}
+  .p-threads_view_header__permalink:active,.p-threads_view_header__permalink:focus,.p-threads_view_header__permalink:hover{color:#1d1c1d}
+  .p-threads_view_header__channel_name{cursor:pointer; background: #222;}
+  .p-threads_view_header__participant_list{margin-left:4px;font-size:12px;color:#616061;display:block}
+  .c-scrollbar__hider { background: #222; }
+  .p-unreads_view__empty {  background: #222; }
+  .p-threads_view  { border-top-left-radius: 12px; border-top-right-radius: 12px; background: #222; }
+  .c-message_kit__thread_message { background: #222; } 
+  .c-message_kit__gutter { background: #222; }
+  .p-threads_view { background: #222; }
+  .c-message_kit__actions { border-top-left-radius: 12px; border-top-right-radius: 12px; background: #222; }
+  .c-message_kit__actions--above { border-top-left-radius: 12px; border-top-right-radius: 12px; background: #222; }
+  .c-message_kit__thread_message { border-top-left-radius: 12px; border-top-right-radius: 12px; background: #222; }
+  .c-message_kit__tombstone { border-top-left-radius: 12px; border-top-right-radius: 12px; background: #222; }
+  .c-message_kit__thread_message--root .c-message_kit__gutter, .c-message_kit__thread_message--root .c-message_kit__tombstone { padding-top: 12px; border-top-left-radius: 12px; border-top-right-radius: 12px;}
+  .p-workspace--classic-nav .p-workspace__primary_view_footer { box-shadow: none; background: #222; }
   
   /* End July 2019 fixes */
   
