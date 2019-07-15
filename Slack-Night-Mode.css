@@ -440,6 +440,8 @@ body { background: #222; color: #e6e6e6; }
   .c-message_kit__tombstone { border-top-left-radius: 12px; border-top-right-radius: 12px; background: #222; }
   .c-message_kit__thread_message--root .c-message_kit__gutter, .c-message_kit__thread_message--root .c-message_kit__tombstone { padding-top: 12px; border-top-left-radius: 12px; border-top-right-radius: 12px;}
   .p-workspace--classic-nav .p-workspace__primary_view_footer { box-shadow: none; background: #222; }
+  .c-channel_name__text--inline { margin-right: 4px; color: #e6e6e6; }
+  .p-unreads_view__header { height: 30px; background: #222; display: flex; align-items: center; padding-left: 16px; padding-right: 32px; }
   
   /* End July 2019 fixes */
   
