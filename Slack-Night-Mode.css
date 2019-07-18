@@ -447,6 +447,7 @@ body { background: #222; color: #e6e6e6; }
   .c-sidebar_menu__list_item {  color: #e6e6e6; }
   .c-sidebar_menu__list_item.is_active { color: #222; }
   .c-fullscreen_modal__header { background: #545454; }
+  .p-threads_flexpane__header_channel_name { color: #e6e6e6; }
   
   /* End July 2019 fixes */
   
