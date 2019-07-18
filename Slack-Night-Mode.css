@@ -444,6 +444,9 @@ body { background: #222; color: #e6e6e6; }
   .p-unreads_view__header { height: 30px; background: #222; display: flex; align-items: center; padding-left: 16px; padding-right: 32px; }
   .p-classic_nav__model__title__name--dim { color: #e6e6e6; }
   .p-classic_nav__channel_header__subtitle { color: #616061; }
+  .c-sidebar_menu__list_item {  color: #e6e6e6; }
+  .c-sidebar_menu__list_item.is_active { color: #222; }
+  .c-fullscreen_modal__header { background: #545454; }
   
   /* End July 2019 fixes */
   
