@@ -447,6 +447,7 @@ body { background: #222; color: #e6e6e6; }
   .c-sidebar_menu__list_item {  color: #e6e6e6; }
   .c-sidebar_menu__list_item.is_active { color: #222; }
   .c-fullscreen_modal__header { background: #545454; }
+  .c-fullscreen_modal__body { background: #222;}
   .p-threads_flexpane__header_channel_name { color: #e6e6e6; }
         /* Autocomplete */
   .c-unified_member--dark .c-presence, .c-unified_member--dark .c-unified_member__current-status, .c-unified_member--dark .c-unified_member__current-status:before, .c-unified_member--dark .c-unified_member__display-name, .c-unified_member--dark .c-unified_member__label--small, .c-unified_member--dark .c-unified_member__name, .c-unified_member--dark .c-unified_member__not-in-channel-context--small, .c-unified_member--dark .c-unified_member__secondary-name, .c-unified_member--dark .presence { color: #e6e6e6; background: #222; }
@@ -455,7 +456,7 @@ body { background: #222; color: #e6e6e6; }
   .c-texty_autocomplete__result { background: #222; }
   .c-texty_autocomplete { background: #222;}
   .c-texty_autocomplete__result_highlight { background: #545454; }
-  
+   
   /* End July 2019 fixes */
   
   .c-message_list__day_divider__label { color: #949494; }
