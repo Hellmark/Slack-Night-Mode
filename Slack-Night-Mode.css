@@ -447,6 +447,7 @@ body { background: #222; color: #e6e6e6; }
   .p-classic_nav__channel_header__subtitle { color: #616061; }
   .p-file_viewer__header__meta__title { color: #e6e6e6; }
   .p-file_viewer__header__meta__name { color: #a6a6a6; }
+  .c-message_attachment__author_name, .c-message_attachment__author_name.c-link--button, .c-message_attachment__author_name.c-link--button:active, .c-message_attachment__author_name.c-link--button:focus, .c-message_attachment__author_name.c-link--button:hover { color: #e6e6e6; }
         /* Sidebar */
   .c-sidebar_menu__list_item {  color: #e6e6e6; }
   .c-sidebar_menu__list_item.is_active { background: #545454; }
