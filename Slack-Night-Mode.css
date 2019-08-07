@@ -458,6 +458,9 @@ body { background: #222; color: #e6e6e6; }
   .p-threads_flexpane__header_channel_name { color: #e6e6e6; }
   .p-prefs_modal__radiogroup label.p-prefs_modal__radiogroup--selected { background: #545454; }
   .c-select_button__content { color: #222; }
+  .p-message_container_loading { background-color: #222; background: #222; }	  
+  .c-base_entity__metadata, .c-base_entity__subtext { color: #c6c6c6; }
+  .c-select_button__content { color: #e6e6e6; }
         /* Autocomplete */
   .c-unified_member--dark .c-presence, .c-unified_member--dark .c-unified_member__current-status, .c-unified_member--dark .c-unified_member__current-status:before, .c-unified_member--dark .c-unified_member__display-name, .c-unified_member--dark .c-unified_member__label--small, .c-unified_member--dark .c-unified_member__name, .c-unified_member--dark .c-unified_member__not-in-channel-context--small, .c-unified_member--dark .c-unified_member__secondary-name, .c-unified_member--dark .presence { color: #e6e6e6; background: #222; }
   .c-team__with-icon--small .c-team__name--small, .c-unified_member__with-avatar--small .c-unified_member__name--small, .c-usergroup__with-icon--small .c-usergroup__name--small { background: #222; }
@@ -465,6 +468,12 @@ body { background: #222; color: #e6e6e6; }
   .c-texty_autocomplete__result { background: #222; }
   .c-texty_autocomplete { background: #222;}
   .c-texty_autocomplete__result_highlight { background: #545454; }
+        /* Profile Card */
+  .p-member_profile_field__label { color: #e6e6e6; background: #222; }
+  .p-member_profile_card__name { background: #222; }
+  .p-member_profile_name__link, .p-member_profile_name__link:hover { color: #e6e6e6; }
+  .p-member_profile_card { background: #222; }
+  .p-member_profile_restriction { color: #e6e6e6; background: #363636; }
    
   /* End July 2019 fixes */
   
