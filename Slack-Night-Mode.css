@@ -476,6 +476,8 @@ body { background: #222; color: #e6e6e6; }
   .p-member_profile_name__link, .p-member_profile_name__link:hover { color: #e6e6e6; }
   .p-member_profile_card { background: #222; }
   .p-member_profile_restriction { color: #e6e6e6; background: #363636; }
+        /* Text Input */
+  .p-message_pane_input { background: #222; }
 
   /* End July 2019 fixes */
 
