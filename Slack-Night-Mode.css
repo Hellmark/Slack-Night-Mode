@@ -450,6 +450,9 @@ body { background: #222; color: #e6e6e6; }
   .c-message_attachment__author_name, .c-message_attachment__author_name.c-link--button, .c-message_attachment__author_name.c-link--button:active, .c-message_attachment__author_name.c-link--button:focus, .c-message_attachment__author_name.c-link--button:hover { color: #e6e6e6; }
   .c-message_kit__labels__link, .c-message_kit__labels__link:focus, .c-message_kit__labels__link:hover { color: #949494; }
   .p-context_bar { visibility: hidden; display: none; }
+  .p-ia__view_header:not(.p-ia__view_header--with-history) { background: #222; }
+  .p-flexpane--iap1 .p-flexpane-header { background: #222; }
+
         /* Sidebar */
   .c-sidebar_menu__list_item {  color: #e6e6e6; }
   .c-sidebar_menu__list_item.is_active { background: #545454; }
